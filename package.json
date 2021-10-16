@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/hoangvvo/nextjs-mongodb-app#readme",
   "dependencies": {
+    "@nextui-org/react": "^1.0.1-alpha.50",
     "@sendgrid/mail": "^7.4.0",
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.23.0",
