@@ -152,12 +152,12 @@ export default function Layout({ children }) {
           <div>
             {!user ? (
               <>
-                <Link href="/login">
+                <Link href="/api/auth/login">
                   <a>Sign in</a>
-                </Link>
+                </Link>{/*
                 <Link href="/signup">
                   <a>Sign up</a>
-                </Link>
+                </Link>*/}
               </>
             ) : (
               <>
