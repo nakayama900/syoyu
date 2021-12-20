@@ -24,6 +24,7 @@
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.23.0",
     "connect-mongo": "^3.2.0",
+    "daisyui": "^1.16.6",
     "dotenv": "^8.2.0",
     "express-session": "^1.17.1",
     "mongodb": "^3.6.3",
